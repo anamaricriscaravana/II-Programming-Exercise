@@ -17,9 +17,9 @@ int main()
     cout <<"Enter the number of cookies you want to make: ";
     cin >> cookies;
 
-    sugar = 1.5*cookies;
-    butter = 1*cookies;
-    flour = 2.75*cookies;
+    sugar = (1.5*cookies)/48;
+    butter = (1*cookies)/48;
+    flour = (2.75*cookies)/48;
     
     cout << "The number of cookies you want to make is: " << cookies << "." << endl;
     cout << "You need " << sugar << " cups of sugar." << endl;

@@ -19,9 +19,9 @@ public class CARAVANAJavaIngredientAdjuster
         System.out.print("Enter the number of cookies you want to make: ");
         cookies = keyboard.nextInt();
 
-        sugar = 1.5*cookies;
-        butter = 1*cookies;
-        flour = 2.75*cookies;
+        sugar = (1.5*cookies)/48;
+        butter = (1*cookies)/48;
+        flour = (2.75*cookies)/48;
         
         System.out.println("The number of cookies you want to make is: " + cookies + ".");
         System.out.println("You need " + sugar + " cups of sugar.");
