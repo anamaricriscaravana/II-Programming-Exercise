@@ -1,10 +1,10 @@
-# Male and Female Percentages and Ingredient Adjuster
+# Male and Female Percentage and Ingredient Adjuster
 
 This project is developed for a Programming Logic and Design subject, that involves creating programs in Java, Python, and C++ to solve specific problems. The exercises focus on applying fundamental programming concepts such as input handling, calculations, and output formatting.
 
 # Problems
 
-1. Male and Female Percentages
+1. Male and Female Percentage
 - Design a program that asks the user for the number of males and females registered in a class. The program calculates and displays the percentage of males and females in the class.
 
 2. Ingredient Adjuster
